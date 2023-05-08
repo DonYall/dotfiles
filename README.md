@@ -24,7 +24,7 @@ Most keybinds are the defaults from i3 (using Alt as the mod key), but there are
 I use [polybar](https://archlinuxarm.org/packages/aarch64/polybar) as a status bar, and it is currently set to a transparent background with a translucent fade in my wallpaper (shown below)
 ![alt text](https://github.com/DonYall/dotfiles/blob/main/wallpaper/wallpaper.jpg?raw=true)
 
-And yes, those are chinese numbers.
+And yes, my workspace config uses Chinese numbers.
 
 ### disclaimer
 
