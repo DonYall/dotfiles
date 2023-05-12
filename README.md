@@ -8,7 +8,7 @@ I use i3wm, however, I wish to switch to something such as dwm in the future. I 
 
 ## keybinds
 
-Most keybinds are the defaults from i3 (using Alt as the mod key), but there are some weird ones I configured for myself such as Mod+Shift+D to open discordo (a command-lnie versoin of Discord)
+Most keybinds are the defaults from i3 (using Alt as the mod key), but there are some weird ones I configured for myself such as Mod+Shift+D to open discordo (a command-line versoin of Discord)
 
 ## applications
 
